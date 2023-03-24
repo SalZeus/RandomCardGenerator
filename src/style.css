@@ -1,1 +1,11 @@
 @import "~bootstrap/dist/css/bootstrap.min.css";
+
+body {
+  background: green;
+}
+.red {
+  color: red;
+}
+.black {
+  color: black;
+}
